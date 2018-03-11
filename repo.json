@@ -1,0 +1,16 @@
+[
+    {
+		"Name": "fzy",
+		"Description": "Plugin that adds support for [fzy](https://github.com/jhawthorn/fzy)",
+		"Tags": ["fzy", "search"],
+		"Versions": [
+			{
+				"Version": "0.0.1",
+				"Url": "https://github.com/chrishalebarnes/micro-fzy-plugin/archive/0.0.1.zip",
+				"Require": {
+					"micro": ">=1.4.0"
+				}
+			}
+		]
+	}
+]
